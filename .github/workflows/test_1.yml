@@ -9,7 +9,7 @@ jobs:
     - name: Hola Mundo
       run: echo 'Hola Mundo' 
 
-   other:
+  other:
      runs-on: ubuntu-latest
 
      steps:
